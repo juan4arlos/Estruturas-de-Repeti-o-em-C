@@ -1,0 +1,20 @@
+# Diretório de configurações do projeto IntelliJ IDEA
+.idea/
+
+# Arquivos de módulo do IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+
+# Diretórios de saída/compilação
+out/
+classes/
+target/
+
+# Arquivos de log e crashes da IDE
+hs_err_pid*
+replay_pid*
+
+# Plugins e caches locais
+.plugins/
+*.hprof
